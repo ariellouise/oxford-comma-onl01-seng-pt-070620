@@ -1,5 +1,5 @@
 array = ["fiddleheads", "okra", "kohlrabi"]
 
 def oxford_comma(array)
-  if array.join (",")
+  if array.length = 1array.join (",")
 end
