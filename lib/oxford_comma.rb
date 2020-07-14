@@ -1,6 +1,6 @@
 array = ["fiddleheads", "okra", "kohlrabi"]
 
-def oxford_comma(array)
+case oxford_comma(array)
   when array.length == 1
     return array.join
   when array.length == 2 
